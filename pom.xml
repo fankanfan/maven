@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>Maven</groupId>
   <artifactId>Maven</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1.${BUILD_NUMBER}-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>Maven</name>
   <description/>
